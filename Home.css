@@ -19,7 +19,7 @@
 .u-section-1 .u-image-2 {
   width: 276px;
   height: 276px;
-  background-image: url("images/Snapseed.jpg");
+  background-image: url("images/IMG_6588.jpg");
   background-position: 50% 50%;
   transition-duration: 0.5s;
   box-shadow: 2px 0px 0px 0px rgba(0,0,0,0);
@@ -96,7 +96,6 @@
 @media (max-width: 991px) {
   .u-section-1 .u-btn-1 {
     border-style: none;
-    font-weight: normal;
   }
 }
 
@@ -107,10 +106,6 @@
 
   .u-section-1 .u-text-2 {
     width: 540px;
-  }
-
-  .u-section-1 .u-btn-1 {
-    font-weight: 700;
   }
 }
 
