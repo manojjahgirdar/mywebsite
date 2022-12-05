@@ -38283,11 +38283,11 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-social-icons-1 {
   white-space: nowrap;
-  height: 31px;
+  height: 19px;
   min-height: 16px;
-  width: 288px;
+  width: 214px;
   min-width: 196px;
-  margin: -35px 35px 18px auto;
+  margin: -29px 0 24px auto;
 }
 
 .u-header .u-icon-1 {
@@ -38330,7 +38330,7 @@ a.u-link.u-text-hover-grey-90:hover {
   }
 
   .u-header .u-social-icons-1 {
-    width: 288px;
+    width: 214px;
     margin-bottom: 15px;
   }
 }
